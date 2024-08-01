@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://nutuptate.github.io/sitemap.html.gz
+Sitemap: https://nutuptate.github.io/app/sitemap.html.gz
+Sitemap: https://nutuptate.github.io/assets/sitemap.html.gz
+Sitemap: https://nutuptate.github.io/css/sitemap.html.gz
+Sitemap: https://nutuptate.github.io/includes/sitemap.html.gz
+Sitemap: https://nutuptate.github.io/item/sitemap.html.gz
+Sitemap: https://nutuptate.github.io/src/sitemap.html.gz
